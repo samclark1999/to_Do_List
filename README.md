@@ -36,10 +36,6 @@ Clark financial is a full-stack banking application. Allows the user to create a
 ## Technologies
 * [React](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
-* [Docker](https://www.docker.com/)
-* [MongoDB](https://www.mongodb.com/)
-* [Bootstrap](https://getbootstrap.com/)
-* [GoogleCloud](https://cloud.google.com/)
 
 ## How to Run
 ### Prereq
