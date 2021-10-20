@@ -29,7 +29,7 @@
 </details>
 
 ## About
-Clark financial is a full-stack banking application. Allows the user to create account, login, and keep track of deposits and withdraws. It has capability to store data of each user and retrieve that data on login. Clark Financial is a project that is ongoing and was the capstone project for my coursework at MIT x Pro.
+to_Do_List is an application developed using React. It has the functionality to allow users to create a to-do, complete or delete a to-do, and sort to-dos by completed or uncompleted. Also, to-dos are stored locally on your localhost:3000 to allow users to come back to their previously created to-dos. 
 <p align="center">(<a href="#top">back to top</a>)</p>
 
 
