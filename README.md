@@ -58,7 +58,7 @@ to_Do_List is an application developed using React. It has the functionality to 
    ```sh
    npm run start
    ```
-4. Navigate to [http://localhost:3000/] to see the application
+4. Navigate to [http://localhost:3000/](http://localhost:3000/) to see the application
 
 
 <p align="center">(<a href="#top">back to top</a>)</p>
